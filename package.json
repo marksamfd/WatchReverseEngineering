@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "start": "electron . --enable-experimental-web-platform-features",
+    "startparc": "parcel",
+    "build": "parcel build"
+  },
+  "dependencies": {
+    "@abandonware/noble": "^1.9.2-15",
+    "fs-extra": "^10.0.0",
+    "menubar": "^9.1.1",
+    "webbluetooth": "^2.1.0"
+  },
+  "devDependencies": {
+    "electron": "^16.0.5",
+    "parcel": "^2.2.0"
+  },
+  "source": "index.html"
+}
