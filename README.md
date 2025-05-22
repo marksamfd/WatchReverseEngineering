@@ -2,6 +2,9 @@
 
 A desktop menubar application built with Electron that connects to smart watches via Web Bluetooth API to monitor and visualize real-time heart rate data.
 
+[![YoloEye Demo](https://img.youtube.com/vi/RwFYL7D2vWI/maxresdefault.jpg)](https://youtu.be/RwFYL7D2vWI "YoloEye Demo")
+
+
 ## Features
 
 - Real-time heart rate monitoring
